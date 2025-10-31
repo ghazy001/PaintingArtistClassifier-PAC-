@@ -24,9 +24,10 @@ A deep learning model is trained on a dataset of paintings and predicts the most
 📦 artist-classification
 ┣ 📁 dataset/        # dataset folder (not included)
 ┣ 📄 train.py        # training script
-┣ 📄 inference.py    # prediction script
+┣ 📄 predict.py    # prediction script
 ┣ 📄 artist_model.pth (not included)
 ┣ 📄 README.md
+┣ 📄 test.jpg
 
 ```
 
@@ -95,7 +96,7 @@ The script will:
 Run classification on a test image:
 
 ```bash
-python3 inference.py --image test.jpg
+python3 predict.py 
 ```
 
 Expected output:
