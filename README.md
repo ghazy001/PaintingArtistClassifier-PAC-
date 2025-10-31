@@ -146,5 +146,3 @@ pip install torch torchvision pillow
 
 MIT License — feel free to use, modify, and contribute!
 
-
-```
