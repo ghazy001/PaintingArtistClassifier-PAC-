@@ -36,9 +36,9 @@ A deep learning model is trained on a dataset of paintings and predicts the most
 ## 📥 Dataset
 
 The dataset is **not included** in this repository due to size restrictions.  
-It will be shared via **Google Drive link**.
+It will be shared via **Drive link**.
 
-> 📎 **Dataset Download:** _Google Drive link coming soon_
+> 📎 **Dataset Download:** [_Google Drive link coming soon_](https://drive.proton.me/urls/Q41Z6YNWCW#GOGRJRocpI3B)
 
 Place it like this after downloading:
 
