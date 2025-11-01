@@ -62,7 +62,7 @@ dataset/
 
 The trained model weights are not included here.
 
-> 📦 **Model Weights Download:** _Google Drive link coming soon_
+> 📦 **Model Weights Download:** [Model Link](https://drive.proton.me/urls/14E5D3R2ZG#52Wa3pDQMYf0)
 
 Place the file in the project root:
 
