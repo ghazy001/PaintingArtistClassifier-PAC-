@@ -110,16 +110,6 @@ Expected output:
  - Paul Cézanne (0.032)
 ```
 
----
-
-## ☁️ Colab Notebook
-
-Train in the cloud with GPU:
-
-👉 **Colab Notebook:** `artist_attribution_colab.ipynb`
-
-Upload this file to Colab and run it.
-Remember to paste your Google Drive links inside.
 
 ---
 
