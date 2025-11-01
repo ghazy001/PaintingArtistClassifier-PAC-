@@ -131,15 +131,7 @@ Install dependencies:
 pip install torch torchvision pillow
 ```
 
----
 
-## 🛠️ TODO
-
-* [ ] Upload dataset Drive link
-* [ ] Upload trained `.pth` model link
-* [ ] Add Gradio / Streamlit web demo
-* [ ] Convert model to ONNX / CoreML
-* [ ] Experiment with Vision Transformers (ViT)
 
 ---
 
